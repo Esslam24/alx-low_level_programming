@@ -1,11 +1,9 @@
-#include "main.h"
+#include "putchar.h"
 
 /**
- * main - prints Putchar
+ *  main - Prints "_putchar" followed by a new line.
  *
- * Description: prints _putchar
- *
- * Return: 0 (Success)
+ *  Return: Always 0.
  */
 int main(void)
 {
